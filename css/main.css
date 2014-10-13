@@ -73,6 +73,13 @@ h1 {
 	font-size: 18px;
 }
 
+h1.title {
+	padding: 5px 10px;
+	background-color: #5f3725;
+	color: #fff;
+	border-radius: 5px;
+}
+
 h2 {
 	font-size: 16px;
 }
